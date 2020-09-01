@@ -1,0 +1,169 @@
+C:\Users\HIeu Nguyen\Desktop\CNPM\project\QLCuaHangThucAnNhanh\DAO\bin\Debug\DAO.dll
+C:\Users\HIeu Nguyen\Desktop\CNPM\project\QLCuaHangThucAnNhanh\DAO\bin\Debug\DAO.pdb
+C:\Users\HIeu Nguyen\Desktop\CNPM\project\QLCuaHangThucAnNhanh\DAO\bin\Debug\DTO.dll
+C:\Users\HIeu Nguyen\Desktop\CNPM\project\QLCuaHangThucAnNhanh\DAO\bin\Debug\DTO.pdb
+C:\Users\HIeu Nguyen\Desktop\CNPM\project\QLCuaHangThucAnNhanh\DAO\obj\Debug\DAO.csprojAssemblyReference.cache
+C:\Users\HIeu Nguyen\Desktop\CNPM\project\QLCuaHangThucAnNhanh\DAO\obj\Debug\DAO.csproj.CoreCompileInputs.cache
+C:\Users\HIeu Nguyen\Desktop\CNPM\project\QLCuaHangThucAnNhanh\DAO\obj\Debug\DAO.csproj.CopyComplete
+C:\Users\HIeu Nguyen\Desktop\CNPM\project\QLCuaHangThucAnNhanh\DAO\obj\Debug\DAO.dll
+C:\Users\HIeu Nguyen\Desktop\CNPM\project\QLCuaHangThucAnNhanh\DAO\obj\Debug\DAO.pdb
+C:\Users\HIeu Nguyen\Desktop\CNPM\project\QLCuaHangThucAnNhanh_v2.2\DAO\bin\Debug\DAO.dll
+C:\Users\HIeu Nguyen\Desktop\CNPM\project\QLCuaHangThucAnNhanh_v2.2\DAO\bin\Debug\DAO.pdb
+C:\Users\HIeu Nguyen\Desktop\CNPM\project\QLCuaHangThucAnNhanh_v2.2\DAO\bin\Debug\DTO.dll
+C:\Users\HIeu Nguyen\Desktop\CNPM\project\QLCuaHangThucAnNhanh_v2.2\DAO\bin\Debug\DTO.pdb
+C:\Users\HIeu Nguyen\Desktop\CNPM\project\QLCuaHangThucAnNhanh_v2.2\DAO\obj\Debug\DAO.csprojAssemblyReference.cache
+C:\Users\HIeu Nguyen\Desktop\CNPM\project\QLCuaHangThucAnNhanh_v2.2\DAO\obj\Debug\DAO.csproj.CoreCompileInputs.cache
+C:\Users\HIeu Nguyen\Desktop\CNPM\project\QLCuaHangThucAnNhanh_v2.2\DAO\obj\Debug\DAO.csproj.CopyComplete
+C:\Users\HIeu Nguyen\Desktop\CNPM\project\QLCuaHangThucAnNhanh_v2.2\DAO\obj\Debug\DAO.dll
+C:\Users\HIeu Nguyen\Desktop\CNPM\project\QLCuaHangThucAnNhanh_v2.2\DAO\obj\Debug\DAO.pdb
+C:\Users\HIeu Nguyen\Desktop\CNPM-UML-WINNC\project\QLCuaHangThucAnNhanh_v2.2\DAO\bin\Debug\DAO.dll
+C:\Users\HIeu Nguyen\Desktop\CNPM-UML-WINNC\project\QLCuaHangThucAnNhanh_v2.2\DAO\bin\Debug\DAO.pdb
+C:\Users\HIeu Nguyen\Desktop\CNPM-UML-WINNC\project\QLCuaHangThucAnNhanh_v2.2\DAO\bin\Debug\DTO.dll
+C:\Users\HIeu Nguyen\Desktop\CNPM-UML-WINNC\project\QLCuaHangThucAnNhanh_v2.2\DAO\bin\Debug\DTO.pdb
+C:\Users\HIeu Nguyen\Desktop\CNPM-UML-WINNC\project\QLCuaHangThucAnNhanh_v2.2\DAO\obj\Debug\DAO.csprojAssemblyReference.cache
+C:\Users\HIeu Nguyen\Desktop\CNPM-UML-WINNC\project\QLCuaHangThucAnNhanh_v2.2\DAO\obj\Debug\DAO.csproj.CoreCompileInputs.cache
+C:\Users\HIeu Nguyen\Desktop\CNPM-UML-WINNC\project\QLCuaHangThucAnNhanh_v2.2\DAO\obj\Debug\DAO.csproj.CopyComplete
+C:\Users\HIeu Nguyen\Desktop\CNPM-UML-WINNC\project\QLCuaHangThucAnNhanh_v2.2\DAO\obj\Debug\DAO.dll
+C:\Users\HIeu Nguyen\Desktop\CNPM-UML-WINNC\project\QLCuaHangThucAnNhanh_v2.2\DAO\obj\Debug\DAO.pdb
+C:\Users\HIeu Nguyen\Desktop\CNPM-UML-WINNC\project\QLCuaHangThucAnNhanh_v2.3\DAO\bin\Debug\DAO.dll
+C:\Users\HIeu Nguyen\Desktop\CNPM-UML-WINNC\project\QLCuaHangThucAnNhanh_v2.3\DAO\bin\Debug\DAO.pdb
+C:\Users\HIeu Nguyen\Desktop\CNPM-UML-WINNC\project\QLCuaHangThucAnNhanh_v2.3\DAO\bin\Debug\DTO.dll
+C:\Users\HIeu Nguyen\Desktop\CNPM-UML-WINNC\project\QLCuaHangThucAnNhanh_v2.3\DAO\bin\Debug\DTO.pdb
+C:\Users\HIeu Nguyen\Desktop\CNPM-UML-WINNC\project\QLCuaHangThucAnNhanh_v2.3\DAO\obj\Debug\DAO.csprojAssemblyReference.cache
+C:\Users\HIeu Nguyen\Desktop\CNPM-UML-WINNC\project\QLCuaHangThucAnNhanh_v2.3\DAO\obj\Debug\DAO.csproj.CoreCompileInputs.cache
+C:\Users\HIeu Nguyen\Desktop\CNPM-UML-WINNC\project\QLCuaHangThucAnNhanh_v2.3\DAO\obj\Debug\DAO.csproj.CopyComplete
+C:\Users\HIeu Nguyen\Desktop\CNPM-UML-WINNC\project\QLCuaHangThucAnNhanh_v2.3\DAO\obj\Debug\DAO.dll
+C:\Users\HIeu Nguyen\Desktop\CNPM-UML-WINNC\project\QLCuaHangThucAnNhanh_v2.3\DAO\obj\Debug\DAO.pdb
+E:\QLCuaHangThucAnNhanh_v2.3\DAO\bin\Debug\DAO.dll
+E:\QLCuaHangThucAnNhanh_v2.3\DAO\bin\Debug\DAO.pdb
+E:\QLCuaHangThucAnNhanh_v2.3\DAO\bin\Debug\DTO.dll
+E:\QLCuaHangThucAnNhanh_v2.3\DAO\bin\Debug\DTO.pdb
+E:\QLCuaHangThucAnNhanh_v2.3\DAO\obj\Debug\DAO.csprojAssemblyReference.cache
+E:\QLCuaHangThucAnNhanh_v2.3\DAO\obj\Debug\DAO.csproj.CoreCompileInputs.cache
+E:\QLCuaHangThucAnNhanh_v2.3\DAO\obj\Debug\DAO.csproj.CopyComplete
+E:\QLCuaHangThucAnNhanh_v2.3\DAO\obj\Debug\DAO.dll
+E:\QLCuaHangThucAnNhanh_v2.3\DAO\obj\Debug\DAO.pdb
+C:\Users\HIeu Nguyen\Desktop\CNPM-UML-WINNC\project\QLCuaHangThucAnNhanh_v2.5\DAO\bin\Debug\DAO.dll
+C:\Users\HIeu Nguyen\Desktop\CNPM-UML-WINNC\project\QLCuaHangThucAnNhanh_v2.5\DAO\bin\Debug\DAO.pdb
+C:\Users\HIeu Nguyen\Desktop\CNPM-UML-WINNC\project\QLCuaHangThucAnNhanh_v2.5\DAO\bin\Debug\DTO.dll
+C:\Users\HIeu Nguyen\Desktop\CNPM-UML-WINNC\project\QLCuaHangThucAnNhanh_v2.5\DAO\bin\Debug\DTO.pdb
+C:\Users\HIeu Nguyen\Desktop\CNPM-UML-WINNC\project\QLCuaHangThucAnNhanh_v2.5\DAO\obj\Debug\DAO.csprojAssemblyReference.cache
+C:\Users\HIeu Nguyen\Desktop\CNPM-UML-WINNC\project\QLCuaHangThucAnNhanh_v2.5\DAO\obj\Debug\DAO.csproj.CoreCompileInputs.cache
+C:\Users\HIeu Nguyen\Desktop\CNPM-UML-WINNC\project\QLCuaHangThucAnNhanh_v2.5\DAO\obj\Debug\DAO.csproj.CopyComplete
+C:\Users\HIeu Nguyen\Desktop\CNPM-UML-WINNC\project\QLCuaHangThucAnNhanh_v2.5\DAO\obj\Debug\DAO.dll
+C:\Users\HIeu Nguyen\Desktop\CNPM-UML-WINNC\project\QLCuaHangThucAnNhanh_v2.5\DAO\obj\Debug\DAO.pdb
+C:\Users\Hoa\Desktop\QLCuaHangThucAnNhanh_v2.6\DAO\bin\Debug\DAO.dll
+C:\Users\Hoa\Desktop\QLCuaHangThucAnNhanh_v2.6\DAO\bin\Debug\DAO.pdb
+C:\Users\Hoa\Desktop\QLCuaHangThucAnNhanh_v2.6\DAO\bin\Debug\DTO.dll
+C:\Users\Hoa\Desktop\QLCuaHangThucAnNhanh_v2.6\DAO\bin\Debug\DTO.pdb
+C:\Users\Hoa\Desktop\QLCuaHangThucAnNhanh_v2.6\DAO\obj\Debug\DAO.csprojAssemblyReference.cache
+C:\Users\Hoa\Desktop\QLCuaHangThucAnNhanh_v2.6\DAO\obj\Debug\DAO.csproj.CoreCompileInputs.cache
+C:\Users\Hoa\Desktop\QLCuaHangThucAnNhanh_v2.6\DAO\obj\Debug\DAO.csproj.CopyComplete
+C:\Users\Hoa\Desktop\QLCuaHangThucAnNhanh_v2.6\DAO\obj\Debug\DAO.dll
+C:\Users\Hoa\Desktop\QLCuaHangThucAnNhanh_v2.6\DAO\obj\Debug\DAO.pdb
+C:\Users\HIeu Nguyen\Desktop\CNPM-UML-WINNC\project\QLCuaHangThucAnNhanh_v2.7\DAO\bin\Debug\DAO.dll
+C:\Users\HIeu Nguyen\Desktop\CNPM-UML-WINNC\project\QLCuaHangThucAnNhanh_v2.7\DAO\bin\Debug\DAO.pdb
+C:\Users\HIeu Nguyen\Desktop\CNPM-UML-WINNC\project\QLCuaHangThucAnNhanh_v2.7\DAO\bin\Debug\DTO.dll
+C:\Users\HIeu Nguyen\Desktop\CNPM-UML-WINNC\project\QLCuaHangThucAnNhanh_v2.7\DAO\bin\Debug\DTO.pdb
+C:\Users\HIeu Nguyen\Desktop\CNPM-UML-WINNC\project\QLCuaHangThucAnNhanh_v2.7\DAO\obj\Debug\DAO.csprojAssemblyReference.cache
+C:\Users\HIeu Nguyen\Desktop\CNPM-UML-WINNC\project\QLCuaHangThucAnNhanh_v2.7\DAO\obj\Debug\DAO.csproj.CoreCompileInputs.cache
+C:\Users\HIeu Nguyen\Desktop\CNPM-UML-WINNC\project\QLCuaHangThucAnNhanh_v2.7\DAO\obj\Debug\DAO.csproj.CopyComplete
+C:\Users\HIeu Nguyen\Desktop\CNPM-UML-WINNC\project\QLCuaHangThucAnNhanh_v2.7\DAO\obj\Debug\DAO.dll
+C:\Users\HIeu Nguyen\Desktop\CNPM-UML-WINNC\project\QLCuaHangThucAnNhanh_v2.7\DAO\obj\Debug\DAO.pdb
+E:\VINH\HocKi3\LT WIin NC\Đồ Án\QLCuaHangThucAnNhanh_v2.8\DAO\bin\Debug\DAO.dll
+E:\VINH\HocKi3\LT WIin NC\Đồ Án\QLCuaHangThucAnNhanh_v2.8\DAO\bin\Debug\DAO.pdb
+E:\VINH\HocKi3\LT WIin NC\Đồ Án\QLCuaHangThucAnNhanh_v2.8\DAO\bin\Debug\DTO.dll
+E:\VINH\HocKi3\LT WIin NC\Đồ Án\QLCuaHangThucAnNhanh_v2.8\DAO\bin\Debug\DTO.pdb
+E:\VINH\HocKi3\LT WIin NC\Đồ Án\QLCuaHangThucAnNhanh_v2.8\DAO\obj\Debug\DAO.csproj.CoreCompileInputs.cache
+E:\VINH\HocKi3\LT WIin NC\Đồ Án\QLCuaHangThucAnNhanh_v2.8\DAO\obj\Debug\DAO.dll
+E:\VINH\HocKi3\LT WIin NC\Đồ Án\QLCuaHangThucAnNhanh_v2.8\DAO\obj\Debug\DAO.pdb
+E:\VINH\HocKi3\LT WIin NC\Đồ Án\QLCuaHangThucAnNhanh_v2.8\DAO\obj\Debug\DAO.csprojResolveAssemblyReference.cache
+C:\Users\HIeu Nguyen\Desktop\CNPM-UML-WINNC\project\QLCuaHangThucAnNhanh_v2.9\DAO\bin\Debug\DAO.dll
+C:\Users\HIeu Nguyen\Desktop\CNPM-UML-WINNC\project\QLCuaHangThucAnNhanh_v2.9\DAO\bin\Debug\DAO.pdb
+C:\Users\HIeu Nguyen\Desktop\CNPM-UML-WINNC\project\QLCuaHangThucAnNhanh_v2.9\DAO\bin\Debug\DTO.dll
+C:\Users\HIeu Nguyen\Desktop\CNPM-UML-WINNC\project\QLCuaHangThucAnNhanh_v2.9\DAO\bin\Debug\DTO.pdb
+C:\Users\HIeu Nguyen\Desktop\CNPM-UML-WINNC\project\QLCuaHangThucAnNhanh_v2.9\DAO\obj\Debug\DAO.csprojAssemblyReference.cache
+C:\Users\HIeu Nguyen\Desktop\CNPM-UML-WINNC\project\QLCuaHangThucAnNhanh_v2.9\DAO\obj\Debug\DAO.csproj.CoreCompileInputs.cache
+C:\Users\HIeu Nguyen\Desktop\CNPM-UML-WINNC\project\QLCuaHangThucAnNhanh_v2.9\DAO\obj\Debug\DAO.csproj.CopyComplete
+C:\Users\HIeu Nguyen\Desktop\CNPM-UML-WINNC\project\QLCuaHangThucAnNhanh_v2.9\DAO\obj\Debug\DAO.dll
+C:\Users\HIeu Nguyen\Desktop\CNPM-UML-WINNC\project\QLCuaHangThucAnNhanh_v2.9\DAO\obj\Debug\DAO.pdb
+C:\Users\HIeu Nguyen\Desktop\CNPM-UML-WINNC\project\QLCuaHangThucAnNhanh_v3.0\DAO\bin\Debug\DAO.dll
+C:\Users\HIeu Nguyen\Desktop\CNPM-UML-WINNC\project\QLCuaHangThucAnNhanh_v3.0\DAO\bin\Debug\DAO.pdb
+C:\Users\HIeu Nguyen\Desktop\CNPM-UML-WINNC\project\QLCuaHangThucAnNhanh_v3.0\DAO\bin\Debug\DTO.dll
+C:\Users\HIeu Nguyen\Desktop\CNPM-UML-WINNC\project\QLCuaHangThucAnNhanh_v3.0\DAO\bin\Debug\DTO.pdb
+C:\Users\HIeu Nguyen\Desktop\CNPM-UML-WINNC\project\QLCuaHangThucAnNhanh_v3.0\DAO\obj\Debug\DAO.csprojAssemblyReference.cache
+C:\Users\HIeu Nguyen\Desktop\CNPM-UML-WINNC\project\QLCuaHangThucAnNhanh_v3.0\DAO\obj\Debug\DAO.csproj.CoreCompileInputs.cache
+C:\Users\HIeu Nguyen\Desktop\CNPM-UML-WINNC\project\QLCuaHangThucAnNhanh_v3.0\DAO\obj\Debug\DAO.csproj.CopyComplete
+C:\Users\HIeu Nguyen\Desktop\CNPM-UML-WINNC\project\QLCuaHangThucAnNhanh_v3.0\DAO\obj\Debug\DAO.dll
+C:\Users\HIeu Nguyen\Desktop\CNPM-UML-WINNC\project\QLCuaHangThucAnNhanh_v3.0\DAO\obj\Debug\DAO.pdb
+C:\Users\HIeu Nguyen\Desktop\CNPM-UML-WINNC\project\QLCuaHangThucAnNhanh_v3.1\DAO\bin\Debug\DAO.dll
+C:\Users\HIeu Nguyen\Desktop\CNPM-UML-WINNC\project\QLCuaHangThucAnNhanh_v3.1\DAO\bin\Debug\DAO.pdb
+C:\Users\HIeu Nguyen\Desktop\CNPM-UML-WINNC\project\QLCuaHangThucAnNhanh_v3.1\DAO\bin\Debug\DTO.dll
+C:\Users\HIeu Nguyen\Desktop\CNPM-UML-WINNC\project\QLCuaHangThucAnNhanh_v3.1\DAO\bin\Debug\DTO.pdb
+C:\Users\HIeu Nguyen\Desktop\CNPM-UML-WINNC\project\QLCuaHangThucAnNhanh_v3.1\DAO\obj\Debug\DAO.csprojAssemblyReference.cache
+C:\Users\HIeu Nguyen\Desktop\CNPM-UML-WINNC\project\QLCuaHangThucAnNhanh_v3.1\DAO\obj\Debug\DAO.csproj.CoreCompileInputs.cache
+C:\Users\HIeu Nguyen\Desktop\CNPM-UML-WINNC\project\QLCuaHangThucAnNhanh_v3.1\DAO\obj\Debug\DAO.csproj.CopyComplete
+C:\Users\HIeu Nguyen\Desktop\CNPM-UML-WINNC\project\QLCuaHangThucAnNhanh_v3.1\DAO\obj\Debug\DAO.dll
+C:\Users\HIeu Nguyen\Desktop\CNPM-UML-WINNC\project\QLCuaHangThucAnNhanh_v3.1\DAO\obj\Debug\DAO.pdb
+C:\Users\HIeu Nguyen\Desktop\CNPM-UML-WINNC\project\QLCuaHangThucAnNhanh_v3.3\DAO\bin\Debug\DAO.dll
+C:\Users\HIeu Nguyen\Desktop\CNPM-UML-WINNC\project\QLCuaHangThucAnNhanh_v3.3\DAO\bin\Debug\DAO.pdb
+C:\Users\HIeu Nguyen\Desktop\CNPM-UML-WINNC\project\QLCuaHangThucAnNhanh_v3.3\DAO\bin\Debug\DTO.dll
+C:\Users\HIeu Nguyen\Desktop\CNPM-UML-WINNC\project\QLCuaHangThucAnNhanh_v3.3\DAO\bin\Debug\DTO.pdb
+C:\Users\HIeu Nguyen\Desktop\CNPM-UML-WINNC\project\QLCuaHangThucAnNhanh_v3.3\DAO\obj\Debug\DAO.csprojAssemblyReference.cache
+C:\Users\HIeu Nguyen\Desktop\CNPM-UML-WINNC\project\QLCuaHangThucAnNhanh_v3.3\DAO\obj\Debug\DAO.csproj.CoreCompileInputs.cache
+C:\Users\HIeu Nguyen\Desktop\CNPM-UML-WINNC\project\QLCuaHangThucAnNhanh_v3.3\DAO\obj\Debug\DAO.csproj.CopyComplete
+C:\Users\HIeu Nguyen\Desktop\CNPM-UML-WINNC\project\QLCuaHangThucAnNhanh_v3.3\DAO\obj\Debug\DAO.dll
+C:\Users\HIeu Nguyen\Desktop\CNPM-UML-WINNC\project\QLCuaHangThucAnNhanh_v3.3\DAO\obj\Debug\DAO.pdb
+E:\VINH\HocKi3\LT WIin NC\Đồ Án\QLCuaHangThucAnNhanh_v3.3\DAO\bin\Debug\DAO.dll
+E:\VINH\HocKi3\LT WIin NC\Đồ Án\QLCuaHangThucAnNhanh_v3.3\DAO\bin\Debug\DAO.pdb
+E:\VINH\HocKi3\LT WIin NC\Đồ Án\QLCuaHangThucAnNhanh_v3.3\DAO\bin\Debug\DTO.dll
+E:\VINH\HocKi3\LT WIin NC\Đồ Án\QLCuaHangThucAnNhanh_v3.3\DAO\bin\Debug\DTO.pdb
+E:\VINH\HocKi3\LT WIin NC\Đồ Án\QLCuaHangThucAnNhanh_v3.3\DAO\obj\Debug\DAO.csprojResolveAssemblyReference.cache
+E:\VINH\HocKi3\LT WIin NC\Đồ Án\QLCuaHangThucAnNhanh_v3.3\DAO\obj\Debug\DAO.csproj.CoreCompileInputs.cache
+E:\VINH\HocKi3\LT WIin NC\Đồ Án\QLCuaHangThucAnNhanh_v3.3\DAO\obj\Debug\DAO.dll
+E:\VINH\HocKi3\LT WIin NC\Đồ Án\QLCuaHangThucAnNhanh_v3.3\DAO\obj\Debug\DAO.pdb
+C:\Users\HIeu Nguyen\Desktop\CNPM-UML-WINNC\project\QLCuaHangThucAnNhanh_v3.4\DAO\bin\Debug\DAO.dll
+C:\Users\HIeu Nguyen\Desktop\CNPM-UML-WINNC\project\QLCuaHangThucAnNhanh_v3.4\DAO\bin\Debug\DAO.pdb
+C:\Users\HIeu Nguyen\Desktop\CNPM-UML-WINNC\project\QLCuaHangThucAnNhanh_v3.4\DAO\bin\Debug\DTO.dll
+C:\Users\HIeu Nguyen\Desktop\CNPM-UML-WINNC\project\QLCuaHangThucAnNhanh_v3.4\DAO\bin\Debug\DTO.pdb
+C:\Users\HIeu Nguyen\Desktop\CNPM-UML-WINNC\project\QLCuaHangThucAnNhanh_v3.4\DAO\obj\Debug\DAO.csprojAssemblyReference.cache
+C:\Users\HIeu Nguyen\Desktop\CNPM-UML-WINNC\project\QLCuaHangThucAnNhanh_v3.4\DAO\obj\Debug\DAO.csproj.CoreCompileInputs.cache
+C:\Users\HIeu Nguyen\Desktop\CNPM-UML-WINNC\project\QLCuaHangThucAnNhanh_v3.4\DAO\obj\Debug\DAO.csproj.CopyComplete
+C:\Users\HIeu Nguyen\Desktop\CNPM-UML-WINNC\project\QLCuaHangThucAnNhanh_v3.4\DAO\obj\Debug\DAO.dll
+C:\Users\HIeu Nguyen\Desktop\CNPM-UML-WINNC\project\QLCuaHangThucAnNhanh_v3.4\DAO\obj\Debug\DAO.pdb
+C:\Users\HIeu Nguyen\Desktop\CNPM-UML-WINNC\project\QLCuaHangThucAnNhanh_v3.5\DAO\bin\Debug\DAO.dll
+C:\Users\HIeu Nguyen\Desktop\CNPM-UML-WINNC\project\QLCuaHangThucAnNhanh_v3.5\DAO\bin\Debug\DAO.pdb
+C:\Users\HIeu Nguyen\Desktop\CNPM-UML-WINNC\project\QLCuaHangThucAnNhanh_v3.5\DAO\bin\Debug\DTO.dll
+C:\Users\HIeu Nguyen\Desktop\CNPM-UML-WINNC\project\QLCuaHangThucAnNhanh_v3.5\DAO\bin\Debug\DTO.pdb
+C:\Users\HIeu Nguyen\Desktop\CNPM-UML-WINNC\project\QLCuaHangThucAnNhanh_v3.5\DAO\obj\Debug\DAO.csprojAssemblyReference.cache
+C:\Users\HIeu Nguyen\Desktop\CNPM-UML-WINNC\project\QLCuaHangThucAnNhanh_v3.5\DAO\obj\Debug\DAO.csproj.CoreCompileInputs.cache
+C:\Users\HIeu Nguyen\Desktop\CNPM-UML-WINNC\project\QLCuaHangThucAnNhanh_v3.5\DAO\obj\Debug\DAO.csproj.CopyComplete
+C:\Users\HIeu Nguyen\Desktop\CNPM-UML-WINNC\project\QLCuaHangThucAnNhanh_v3.5\DAO\obj\Debug\DAO.dll
+C:\Users\HIeu Nguyen\Desktop\CNPM-UML-WINNC\project\QLCuaHangThucAnNhanh_v3.5\DAO\obj\Debug\DAO.pdb
+C:\Users\HIeu Nguyen\Desktop\CNPM-UML-WINNC\project\QLCuaHangThucAnNhanh_v3.7\DAO\bin\Debug\DAO.dll
+C:\Users\HIeu Nguyen\Desktop\CNPM-UML-WINNC\project\QLCuaHangThucAnNhanh_v3.7\DAO\bin\Debug\DAO.pdb
+C:\Users\HIeu Nguyen\Desktop\CNPM-UML-WINNC\project\QLCuaHangThucAnNhanh_v3.7\DAO\bin\Debug\DTO.dll
+C:\Users\HIeu Nguyen\Desktop\CNPM-UML-WINNC\project\QLCuaHangThucAnNhanh_v3.7\DAO\bin\Debug\DTO.pdb
+C:\Users\HIeu Nguyen\Desktop\CNPM-UML-WINNC\project\QLCuaHangThucAnNhanh_v3.7\DAO\obj\Debug\DAO.csprojAssemblyReference.cache
+C:\Users\HIeu Nguyen\Desktop\CNPM-UML-WINNC\project\QLCuaHangThucAnNhanh_v3.7\DAO\obj\Debug\DAO.csproj.CoreCompileInputs.cache
+C:\Users\HIeu Nguyen\Desktop\CNPM-UML-WINNC\project\QLCuaHangThucAnNhanh_v3.7\DAO\obj\Debug\DAO.csproj.CopyComplete
+C:\Users\HIeu Nguyen\Desktop\CNPM-UML-WINNC\project\QLCuaHangThucAnNhanh_v3.7\DAO\obj\Debug\DAO.dll
+C:\Users\HIeu Nguyen\Desktop\CNPM-UML-WINNC\project\QLCuaHangThucAnNhanh_v3.7\DAO\obj\Debug\DAO.pdb
+C:\Users\HIeu Nguyen\Desktop\CNPM-UML-WINNC\project\QLCuaHangThucAnNhanh_v3.8\DAO\bin\Debug\DAO.dll
+C:\Users\HIeu Nguyen\Desktop\CNPM-UML-WINNC\project\QLCuaHangThucAnNhanh_v3.8\DAO\bin\Debug\DAO.pdb
+C:\Users\HIeu Nguyen\Desktop\CNPM-UML-WINNC\project\QLCuaHangThucAnNhanh_v3.8\DAO\bin\Debug\DTO.dll
+C:\Users\HIeu Nguyen\Desktop\CNPM-UML-WINNC\project\QLCuaHangThucAnNhanh_v3.8\DAO\bin\Debug\DTO.pdb
+C:\Users\HIeu Nguyen\Desktop\CNPM-UML-WINNC\project\QLCuaHangThucAnNhanh_v3.8\DAO\obj\Debug\DAO.csprojAssemblyReference.cache
+C:\Users\HIeu Nguyen\Desktop\CNPM-UML-WINNC\project\QLCuaHangThucAnNhanh_v3.8\DAO\obj\Debug\DAO.csproj.CoreCompileInputs.cache
+C:\Users\HIeu Nguyen\Desktop\CNPM-UML-WINNC\project\QLCuaHangThucAnNhanh_v3.8\DAO\obj\Debug\DAO.csproj.CopyComplete
+C:\Users\HIeu Nguyen\Desktop\CNPM-UML-WINNC\project\QLCuaHangThucAnNhanh_v3.8\DAO\obj\Debug\DAO.dll
+C:\Users\HIeu Nguyen\Desktop\CNPM-UML-WINNC\project\QLCuaHangThucAnNhanh_v3.8\DAO\obj\Debug\DAO.pdb
+E:\Video Đồ án\video app nghe nhac\New folder\QLCuaHangThucAnNhanh_v3.9\DAO\bin\Debug\DAO.dll
+E:\Video Đồ án\video app nghe nhac\New folder\QLCuaHangThucAnNhanh_v3.9\DAO\bin\Debug\DAO.pdb
+E:\Video Đồ án\video app nghe nhac\New folder\QLCuaHangThucAnNhanh_v3.9\DAO\bin\Debug\DTO.dll
+E:\Video Đồ án\video app nghe nhac\New folder\QLCuaHangThucAnNhanh_v3.9\DAO\bin\Debug\DTO.pdb
+E:\Video Đồ án\video app nghe nhac\New folder\QLCuaHangThucAnNhanh_v3.9\DAO\obj\Debug\DAO.csprojAssemblyReference.cache
+E:\Video Đồ án\video app nghe nhac\New folder\QLCuaHangThucAnNhanh_v3.9\DAO\obj\Debug\DAO.csproj.CoreCompileInputs.cache
+E:\Video Đồ án\video app nghe nhac\New folder\QLCuaHangThucAnNhanh_v3.9\DAO\obj\Debug\DAO.csproj.CopyComplete
+E:\Video Đồ án\video app nghe nhac\New folder\QLCuaHangThucAnNhanh_v3.9\DAO\obj\Debug\DAO.dll
+E:\Video Đồ án\video app nghe nhac\New folder\QLCuaHangThucAnNhanh_v3.9\DAO\obj\Debug\DAO.pdb

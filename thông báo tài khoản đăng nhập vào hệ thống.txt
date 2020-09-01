@@ -1,0 +1,25 @@
+-----------------------------------------
+Thông tin dang nhap:
+
+	Quyen chu cua hang
+		User: chucuahang
+		Pass: 123456789
+	Quyen quan ly cua hang:
+		User: userqlch
+		Pass: 123456789
+	Quyen quan ly cua hang 2:
+		User: userqlch2
+		Pass: 123456789
+	Quyen quan ly cua hang 3:
+		User: userqlch3
+		Pass: 123456789
+	Quyen quan ly ban hang:
+		User: userqlbh
+		Pass: 123456789
+	Quyen quan ly ban hang 1:
+		User: userqlbh1
+		Pass: 123456789
+	Quyen quan ly ban hang 2:
+		User: userqlbh2
+		Pass: 123456789
+	

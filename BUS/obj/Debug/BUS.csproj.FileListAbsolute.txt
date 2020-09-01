@@ -1,0 +1,207 @@
+C:\Users\HIeu Nguyen\Desktop\CNPM\project\QLCuaHangThucAnNhanh\BUS\bin\Debug\BUS.dll
+C:\Users\HIeu Nguyen\Desktop\CNPM\project\QLCuaHangThucAnNhanh\BUS\bin\Debug\BUS.pdb
+C:\Users\HIeu Nguyen\Desktop\CNPM\project\QLCuaHangThucAnNhanh\BUS\bin\Debug\DAO.dll
+C:\Users\HIeu Nguyen\Desktop\CNPM\project\QLCuaHangThucAnNhanh\BUS\bin\Debug\DTO.dll
+C:\Users\HIeu Nguyen\Desktop\CNPM\project\QLCuaHangThucAnNhanh\BUS\bin\Debug\DAO.pdb
+C:\Users\HIeu Nguyen\Desktop\CNPM\project\QLCuaHangThucAnNhanh\BUS\bin\Debug\DTO.pdb
+C:\Users\HIeu Nguyen\Desktop\CNPM\project\QLCuaHangThucAnNhanh\BUS\obj\Debug\BUS.csprojAssemblyReference.cache
+C:\Users\HIeu Nguyen\Desktop\CNPM\project\QLCuaHangThucAnNhanh\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+C:\Users\HIeu Nguyen\Desktop\CNPM\project\QLCuaHangThucAnNhanh\BUS\obj\Debug\BUS.csproj.CopyComplete
+C:\Users\HIeu Nguyen\Desktop\CNPM\project\QLCuaHangThucAnNhanh\BUS\obj\Debug\BUS.dll
+C:\Users\HIeu Nguyen\Desktop\CNPM\project\QLCuaHangThucAnNhanh\BUS\obj\Debug\BUS.pdb
+C:\Users\HIeu Nguyen\Desktop\CNPM\project\QLCuaHangThucAnNhanh_v2.2\BUS\bin\Debug\BUS.dll
+C:\Users\HIeu Nguyen\Desktop\CNPM\project\QLCuaHangThucAnNhanh_v2.2\BUS\bin\Debug\BUS.pdb
+C:\Users\HIeu Nguyen\Desktop\CNPM\project\QLCuaHangThucAnNhanh_v2.2\BUS\bin\Debug\DAO.dll
+C:\Users\HIeu Nguyen\Desktop\CNPM\project\QLCuaHangThucAnNhanh_v2.2\BUS\bin\Debug\DTO.dll
+C:\Users\HIeu Nguyen\Desktop\CNPM\project\QLCuaHangThucAnNhanh_v2.2\BUS\bin\Debug\DAO.pdb
+C:\Users\HIeu Nguyen\Desktop\CNPM\project\QLCuaHangThucAnNhanh_v2.2\BUS\bin\Debug\DTO.pdb
+C:\Users\HIeu Nguyen\Desktop\CNPM\project\QLCuaHangThucAnNhanh_v2.2\BUS\obj\Debug\BUS.csprojAssemblyReference.cache
+C:\Users\HIeu Nguyen\Desktop\CNPM\project\QLCuaHangThucAnNhanh_v2.2\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+C:\Users\HIeu Nguyen\Desktop\CNPM\project\QLCuaHangThucAnNhanh_v2.2\BUS\obj\Debug\BUS.csproj.CopyComplete
+C:\Users\HIeu Nguyen\Desktop\CNPM\project\QLCuaHangThucAnNhanh_v2.2\BUS\obj\Debug\BUS.dll
+C:\Users\HIeu Nguyen\Desktop\CNPM\project\QLCuaHangThucAnNhanh_v2.2\BUS\obj\Debug\BUS.pdb
+C:\Users\HIeu Nguyen\Desktop\CNPM-UML-WINNC\project\QLCuaHangThucAnNhanh_v2.2\BUS\bin\Debug\BUS.dll
+C:\Users\HIeu Nguyen\Desktop\CNPM-UML-WINNC\project\QLCuaHangThucAnNhanh_v2.2\BUS\bin\Debug\BUS.pdb
+C:\Users\HIeu Nguyen\Desktop\CNPM-UML-WINNC\project\QLCuaHangThucAnNhanh_v2.2\BUS\bin\Debug\DAO.dll
+C:\Users\HIeu Nguyen\Desktop\CNPM-UML-WINNC\project\QLCuaHangThucAnNhanh_v2.2\BUS\bin\Debug\DTO.dll
+C:\Users\HIeu Nguyen\Desktop\CNPM-UML-WINNC\project\QLCuaHangThucAnNhanh_v2.2\BUS\bin\Debug\DAO.pdb
+C:\Users\HIeu Nguyen\Desktop\CNPM-UML-WINNC\project\QLCuaHangThucAnNhanh_v2.2\BUS\bin\Debug\DTO.pdb
+C:\Users\HIeu Nguyen\Desktop\CNPM-UML-WINNC\project\QLCuaHangThucAnNhanh_v2.2\BUS\obj\Debug\BUS.csprojAssemblyReference.cache
+C:\Users\HIeu Nguyen\Desktop\CNPM-UML-WINNC\project\QLCuaHangThucAnNhanh_v2.2\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+C:\Users\HIeu Nguyen\Desktop\CNPM-UML-WINNC\project\QLCuaHangThucAnNhanh_v2.2\BUS\obj\Debug\BUS.csproj.CopyComplete
+C:\Users\HIeu Nguyen\Desktop\CNPM-UML-WINNC\project\QLCuaHangThucAnNhanh_v2.2\BUS\obj\Debug\BUS.dll
+C:\Users\HIeu Nguyen\Desktop\CNPM-UML-WINNC\project\QLCuaHangThucAnNhanh_v2.2\BUS\obj\Debug\BUS.pdb
+C:\Users\HIeu Nguyen\Desktop\CNPM-UML-WINNC\project\QLCuaHangThucAnNhanh_v2.3\BUS\bin\Debug\BUS.dll
+C:\Users\HIeu Nguyen\Desktop\CNPM-UML-WINNC\project\QLCuaHangThucAnNhanh_v2.3\BUS\bin\Debug\BUS.pdb
+C:\Users\HIeu Nguyen\Desktop\CNPM-UML-WINNC\project\QLCuaHangThucAnNhanh_v2.3\BUS\bin\Debug\DAO.dll
+C:\Users\HIeu Nguyen\Desktop\CNPM-UML-WINNC\project\QLCuaHangThucAnNhanh_v2.3\BUS\bin\Debug\DTO.dll
+C:\Users\HIeu Nguyen\Desktop\CNPM-UML-WINNC\project\QLCuaHangThucAnNhanh_v2.3\BUS\bin\Debug\DAO.pdb
+C:\Users\HIeu Nguyen\Desktop\CNPM-UML-WINNC\project\QLCuaHangThucAnNhanh_v2.3\BUS\bin\Debug\DTO.pdb
+C:\Users\HIeu Nguyen\Desktop\CNPM-UML-WINNC\project\QLCuaHangThucAnNhanh_v2.3\BUS\obj\Debug\BUS.csprojAssemblyReference.cache
+C:\Users\HIeu Nguyen\Desktop\CNPM-UML-WINNC\project\QLCuaHangThucAnNhanh_v2.3\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+C:\Users\HIeu Nguyen\Desktop\CNPM-UML-WINNC\project\QLCuaHangThucAnNhanh_v2.3\BUS\obj\Debug\BUS.csproj.CopyComplete
+C:\Users\HIeu Nguyen\Desktop\CNPM-UML-WINNC\project\QLCuaHangThucAnNhanh_v2.3\BUS\obj\Debug\BUS.dll
+C:\Users\HIeu Nguyen\Desktop\CNPM-UML-WINNC\project\QLCuaHangThucAnNhanh_v2.3\BUS\obj\Debug\BUS.pdb
+E:\QLCuaHangThucAnNhanh_v2.3\BUS\bin\Debug\BUS.dll
+E:\QLCuaHangThucAnNhanh_v2.3\BUS\bin\Debug\BUS.pdb
+E:\QLCuaHangThucAnNhanh_v2.3\BUS\bin\Debug\DAO.dll
+E:\QLCuaHangThucAnNhanh_v2.3\BUS\bin\Debug\DTO.dll
+E:\QLCuaHangThucAnNhanh_v2.3\BUS\bin\Debug\DAO.pdb
+E:\QLCuaHangThucAnNhanh_v2.3\BUS\bin\Debug\DTO.pdb
+E:\QLCuaHangThucAnNhanh_v2.3\BUS\obj\Debug\BUS.csprojAssemblyReference.cache
+E:\QLCuaHangThucAnNhanh_v2.3\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+E:\QLCuaHangThucAnNhanh_v2.3\BUS\obj\Debug\BUS.csproj.CopyComplete
+E:\QLCuaHangThucAnNhanh_v2.3\BUS\obj\Debug\BUS.dll
+E:\QLCuaHangThucAnNhanh_v2.3\BUS\obj\Debug\BUS.pdb
+C:\Users\HIeu Nguyen\Desktop\CNPM-UML-WINNC\project\QLCuaHangThucAnNhanh_v2.5\BUS\bin\Debug\BUS.dll
+C:\Users\HIeu Nguyen\Desktop\CNPM-UML-WINNC\project\QLCuaHangThucAnNhanh_v2.5\BUS\bin\Debug\BUS.pdb
+C:\Users\HIeu Nguyen\Desktop\CNPM-UML-WINNC\project\QLCuaHangThucAnNhanh_v2.5\BUS\bin\Debug\DAO.dll
+C:\Users\HIeu Nguyen\Desktop\CNPM-UML-WINNC\project\QLCuaHangThucAnNhanh_v2.5\BUS\bin\Debug\DTO.dll
+C:\Users\HIeu Nguyen\Desktop\CNPM-UML-WINNC\project\QLCuaHangThucAnNhanh_v2.5\BUS\bin\Debug\DAO.pdb
+C:\Users\HIeu Nguyen\Desktop\CNPM-UML-WINNC\project\QLCuaHangThucAnNhanh_v2.5\BUS\bin\Debug\DTO.pdb
+C:\Users\HIeu Nguyen\Desktop\CNPM-UML-WINNC\project\QLCuaHangThucAnNhanh_v2.5\BUS\obj\Debug\BUS.csprojAssemblyReference.cache
+C:\Users\HIeu Nguyen\Desktop\CNPM-UML-WINNC\project\QLCuaHangThucAnNhanh_v2.5\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+C:\Users\HIeu Nguyen\Desktop\CNPM-UML-WINNC\project\QLCuaHangThucAnNhanh_v2.5\BUS\obj\Debug\BUS.csproj.CopyComplete
+C:\Users\HIeu Nguyen\Desktop\CNPM-UML-WINNC\project\QLCuaHangThucAnNhanh_v2.5\BUS\obj\Debug\BUS.dll
+C:\Users\HIeu Nguyen\Desktop\CNPM-UML-WINNC\project\QLCuaHangThucAnNhanh_v2.5\BUS\obj\Debug\BUS.pdb
+C:\Users\Hoa\Desktop\QLCuaHangThucAnNhanh_v2.6\BUS\bin\Debug\BUS.dll
+C:\Users\Hoa\Desktop\QLCuaHangThucAnNhanh_v2.6\BUS\bin\Debug\BUS.pdb
+C:\Users\Hoa\Desktop\QLCuaHangThucAnNhanh_v2.6\BUS\bin\Debug\DAO.dll
+C:\Users\Hoa\Desktop\QLCuaHangThucAnNhanh_v2.6\BUS\bin\Debug\DTO.dll
+C:\Users\Hoa\Desktop\QLCuaHangThucAnNhanh_v2.6\BUS\bin\Debug\DAO.pdb
+C:\Users\Hoa\Desktop\QLCuaHangThucAnNhanh_v2.6\BUS\bin\Debug\DTO.pdb
+C:\Users\Hoa\Desktop\QLCuaHangThucAnNhanh_v2.6\BUS\obj\Debug\BUS.csprojAssemblyReference.cache
+C:\Users\Hoa\Desktop\QLCuaHangThucAnNhanh_v2.6\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+C:\Users\Hoa\Desktop\QLCuaHangThucAnNhanh_v2.6\BUS\obj\Debug\BUS.csproj.CopyComplete
+C:\Users\Hoa\Desktop\QLCuaHangThucAnNhanh_v2.6\BUS\obj\Debug\BUS.dll
+C:\Users\Hoa\Desktop\QLCuaHangThucAnNhanh_v2.6\BUS\obj\Debug\BUS.pdb
+C:\Users\HIeu Nguyen\Desktop\CNPM-UML-WINNC\project\QLCuaHangThucAnNhanh_v2.7\BUS\bin\Debug\BUS.dll
+C:\Users\HIeu Nguyen\Desktop\CNPM-UML-WINNC\project\QLCuaHangThucAnNhanh_v2.7\BUS\bin\Debug\BUS.pdb
+C:\Users\HIeu Nguyen\Desktop\CNPM-UML-WINNC\project\QLCuaHangThucAnNhanh_v2.7\BUS\bin\Debug\DAO.dll
+C:\Users\HIeu Nguyen\Desktop\CNPM-UML-WINNC\project\QLCuaHangThucAnNhanh_v2.7\BUS\bin\Debug\DTO.dll
+C:\Users\HIeu Nguyen\Desktop\CNPM-UML-WINNC\project\QLCuaHangThucAnNhanh_v2.7\BUS\bin\Debug\DAO.pdb
+C:\Users\HIeu Nguyen\Desktop\CNPM-UML-WINNC\project\QLCuaHangThucAnNhanh_v2.7\BUS\bin\Debug\DTO.pdb
+C:\Users\HIeu Nguyen\Desktop\CNPM-UML-WINNC\project\QLCuaHangThucAnNhanh_v2.7\BUS\obj\Debug\BUS.csprojAssemblyReference.cache
+C:\Users\HIeu Nguyen\Desktop\CNPM-UML-WINNC\project\QLCuaHangThucAnNhanh_v2.7\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+C:\Users\HIeu Nguyen\Desktop\CNPM-UML-WINNC\project\QLCuaHangThucAnNhanh_v2.7\BUS\obj\Debug\BUS.csproj.CopyComplete
+C:\Users\HIeu Nguyen\Desktop\CNPM-UML-WINNC\project\QLCuaHangThucAnNhanh_v2.7\BUS\obj\Debug\BUS.dll
+C:\Users\HIeu Nguyen\Desktop\CNPM-UML-WINNC\project\QLCuaHangThucAnNhanh_v2.7\BUS\obj\Debug\BUS.pdb
+E:\VINH\HocKi3\LT WIin NC\Đồ Án\QLCuaHangThucAnNhanh_v2.8\BUS\bin\Debug\BUS.dll
+E:\VINH\HocKi3\LT WIin NC\Đồ Án\QLCuaHangThucAnNhanh_v2.8\BUS\bin\Debug\BUS.pdb
+E:\VINH\HocKi3\LT WIin NC\Đồ Án\QLCuaHangThucAnNhanh_v2.8\BUS\bin\Debug\DAO.dll
+E:\VINH\HocKi3\LT WIin NC\Đồ Án\QLCuaHangThucAnNhanh_v2.8\BUS\bin\Debug\DTO.dll
+E:\VINH\HocKi3\LT WIin NC\Đồ Án\QLCuaHangThucAnNhanh_v2.8\BUS\bin\Debug\DAO.pdb
+E:\VINH\HocKi3\LT WIin NC\Đồ Án\QLCuaHangThucAnNhanh_v2.8\BUS\bin\Debug\DTO.pdb
+E:\VINH\HocKi3\LT WIin NC\Đồ Án\QLCuaHangThucAnNhanh_v2.8\BUS\obj\Debug\BUS.csprojResolveAssemblyReference.cache
+E:\VINH\HocKi3\LT WIin NC\Đồ Án\QLCuaHangThucAnNhanh_v2.8\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+E:\VINH\HocKi3\LT WIin NC\Đồ Án\QLCuaHangThucAnNhanh_v2.8\BUS\obj\Debug\BUS.dll
+E:\VINH\HocKi3\LT WIin NC\Đồ Án\QLCuaHangThucAnNhanh_v2.8\BUS\obj\Debug\BUS.pdb
+C:\Users\HIeu Nguyen\Desktop\CNPM-UML-WINNC\project\QLCuaHangThucAnNhanh_v2.9\BUS\bin\Debug\BUS.dll
+C:\Users\HIeu Nguyen\Desktop\CNPM-UML-WINNC\project\QLCuaHangThucAnNhanh_v2.9\BUS\bin\Debug\BUS.pdb
+C:\Users\HIeu Nguyen\Desktop\CNPM-UML-WINNC\project\QLCuaHangThucAnNhanh_v2.9\BUS\bin\Debug\DAO.dll
+C:\Users\HIeu Nguyen\Desktop\CNPM-UML-WINNC\project\QLCuaHangThucAnNhanh_v2.9\BUS\bin\Debug\DTO.dll
+C:\Users\HIeu Nguyen\Desktop\CNPM-UML-WINNC\project\QLCuaHangThucAnNhanh_v2.9\BUS\bin\Debug\DAO.pdb
+C:\Users\HIeu Nguyen\Desktop\CNPM-UML-WINNC\project\QLCuaHangThucAnNhanh_v2.9\BUS\bin\Debug\DTO.pdb
+C:\Users\HIeu Nguyen\Desktop\CNPM-UML-WINNC\project\QLCuaHangThucAnNhanh_v2.9\BUS\obj\Debug\BUS.csprojAssemblyReference.cache
+C:\Users\HIeu Nguyen\Desktop\CNPM-UML-WINNC\project\QLCuaHangThucAnNhanh_v2.9\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+C:\Users\HIeu Nguyen\Desktop\CNPM-UML-WINNC\project\QLCuaHangThucAnNhanh_v2.9\BUS\obj\Debug\BUS.csproj.CopyComplete
+C:\Users\HIeu Nguyen\Desktop\CNPM-UML-WINNC\project\QLCuaHangThucAnNhanh_v2.9\BUS\obj\Debug\BUS.dll
+C:\Users\HIeu Nguyen\Desktop\CNPM-UML-WINNC\project\QLCuaHangThucAnNhanh_v2.9\BUS\obj\Debug\BUS.pdb
+C:\Users\HIeu Nguyen\Desktop\CNPM-UML-WINNC\project\QLCuaHangThucAnNhanh_v3.0\BUS\bin\Debug\BUS.dll
+C:\Users\HIeu Nguyen\Desktop\CNPM-UML-WINNC\project\QLCuaHangThucAnNhanh_v3.0\BUS\bin\Debug\BUS.pdb
+C:\Users\HIeu Nguyen\Desktop\CNPM-UML-WINNC\project\QLCuaHangThucAnNhanh_v3.0\BUS\bin\Debug\DAO.dll
+C:\Users\HIeu Nguyen\Desktop\CNPM-UML-WINNC\project\QLCuaHangThucAnNhanh_v3.0\BUS\bin\Debug\DTO.dll
+C:\Users\HIeu Nguyen\Desktop\CNPM-UML-WINNC\project\QLCuaHangThucAnNhanh_v3.0\BUS\bin\Debug\DAO.pdb
+C:\Users\HIeu Nguyen\Desktop\CNPM-UML-WINNC\project\QLCuaHangThucAnNhanh_v3.0\BUS\bin\Debug\DTO.pdb
+C:\Users\HIeu Nguyen\Desktop\CNPM-UML-WINNC\project\QLCuaHangThucAnNhanh_v3.0\BUS\obj\Debug\BUS.csprojAssemblyReference.cache
+C:\Users\HIeu Nguyen\Desktop\CNPM-UML-WINNC\project\QLCuaHangThucAnNhanh_v3.0\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+C:\Users\HIeu Nguyen\Desktop\CNPM-UML-WINNC\project\QLCuaHangThucAnNhanh_v3.0\BUS\obj\Debug\BUS.csproj.CopyComplete
+C:\Users\HIeu Nguyen\Desktop\CNPM-UML-WINNC\project\QLCuaHangThucAnNhanh_v3.0\BUS\obj\Debug\BUS.dll
+C:\Users\HIeu Nguyen\Desktop\CNPM-UML-WINNC\project\QLCuaHangThucAnNhanh_v3.0\BUS\obj\Debug\BUS.pdb
+C:\Users\HIeu Nguyen\Desktop\CNPM-UML-WINNC\project\QLCuaHangThucAnNhanh_v3.1\BUS\bin\Debug\BUS.dll
+C:\Users\HIeu Nguyen\Desktop\CNPM-UML-WINNC\project\QLCuaHangThucAnNhanh_v3.1\BUS\bin\Debug\BUS.pdb
+C:\Users\HIeu Nguyen\Desktop\CNPM-UML-WINNC\project\QLCuaHangThucAnNhanh_v3.1\BUS\bin\Debug\DAO.dll
+C:\Users\HIeu Nguyen\Desktop\CNPM-UML-WINNC\project\QLCuaHangThucAnNhanh_v3.1\BUS\bin\Debug\DTO.dll
+C:\Users\HIeu Nguyen\Desktop\CNPM-UML-WINNC\project\QLCuaHangThucAnNhanh_v3.1\BUS\bin\Debug\DAO.pdb
+C:\Users\HIeu Nguyen\Desktop\CNPM-UML-WINNC\project\QLCuaHangThucAnNhanh_v3.1\BUS\bin\Debug\DTO.pdb
+C:\Users\HIeu Nguyen\Desktop\CNPM-UML-WINNC\project\QLCuaHangThucAnNhanh_v3.1\BUS\obj\Debug\BUS.csprojAssemblyReference.cache
+C:\Users\HIeu Nguyen\Desktop\CNPM-UML-WINNC\project\QLCuaHangThucAnNhanh_v3.1\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+C:\Users\HIeu Nguyen\Desktop\CNPM-UML-WINNC\project\QLCuaHangThucAnNhanh_v3.1\BUS\obj\Debug\BUS.csproj.CopyComplete
+C:\Users\HIeu Nguyen\Desktop\CNPM-UML-WINNC\project\QLCuaHangThucAnNhanh_v3.1\BUS\obj\Debug\BUS.dll
+C:\Users\HIeu Nguyen\Desktop\CNPM-UML-WINNC\project\QLCuaHangThucAnNhanh_v3.1\BUS\obj\Debug\BUS.pdb
+C:\Users\HIeu Nguyen\Desktop\CNPM-UML-WINNC\project\QLCuaHangThucAnNhanh_v3.3\BUS\bin\Debug\BUS.dll
+C:\Users\HIeu Nguyen\Desktop\CNPM-UML-WINNC\project\QLCuaHangThucAnNhanh_v3.3\BUS\bin\Debug\BUS.pdb
+C:\Users\HIeu Nguyen\Desktop\CNPM-UML-WINNC\project\QLCuaHangThucAnNhanh_v3.3\BUS\bin\Debug\DAO.dll
+C:\Users\HIeu Nguyen\Desktop\CNPM-UML-WINNC\project\QLCuaHangThucAnNhanh_v3.3\BUS\bin\Debug\DTO.dll
+C:\Users\HIeu Nguyen\Desktop\CNPM-UML-WINNC\project\QLCuaHangThucAnNhanh_v3.3\BUS\bin\Debug\DAO.pdb
+C:\Users\HIeu Nguyen\Desktop\CNPM-UML-WINNC\project\QLCuaHangThucAnNhanh_v3.3\BUS\bin\Debug\DTO.pdb
+C:\Users\HIeu Nguyen\Desktop\CNPM-UML-WINNC\project\QLCuaHangThucAnNhanh_v3.3\BUS\obj\Debug\BUS.csprojAssemblyReference.cache
+C:\Users\HIeu Nguyen\Desktop\CNPM-UML-WINNC\project\QLCuaHangThucAnNhanh_v3.3\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+C:\Users\HIeu Nguyen\Desktop\CNPM-UML-WINNC\project\QLCuaHangThucAnNhanh_v3.3\BUS\obj\Debug\BUS.csproj.CopyComplete
+C:\Users\HIeu Nguyen\Desktop\CNPM-UML-WINNC\project\QLCuaHangThucAnNhanh_v3.3\BUS\obj\Debug\BUS.dll
+C:\Users\HIeu Nguyen\Desktop\CNPM-UML-WINNC\project\QLCuaHangThucAnNhanh_v3.3\BUS\obj\Debug\BUS.pdb
+E:\VINH\HocKi3\LT WIin NC\Đồ Án\QLCuaHangThucAnNhanh_v3.3\BUS\bin\Debug\BUS.dll
+E:\VINH\HocKi3\LT WIin NC\Đồ Án\QLCuaHangThucAnNhanh_v3.3\BUS\bin\Debug\BUS.pdb
+E:\VINH\HocKi3\LT WIin NC\Đồ Án\QLCuaHangThucAnNhanh_v3.3\BUS\bin\Debug\DAO.dll
+E:\VINH\HocKi3\LT WIin NC\Đồ Án\QLCuaHangThucAnNhanh_v3.3\BUS\bin\Debug\DTO.dll
+E:\VINH\HocKi3\LT WIin NC\Đồ Án\QLCuaHangThucAnNhanh_v3.3\BUS\bin\Debug\DAO.pdb
+E:\VINH\HocKi3\LT WIin NC\Đồ Án\QLCuaHangThucAnNhanh_v3.3\BUS\bin\Debug\DTO.pdb
+E:\VINH\HocKi3\LT WIin NC\Đồ Án\QLCuaHangThucAnNhanh_v3.3\BUS\obj\Debug\BUS.csprojResolveAssemblyReference.cache
+E:\VINH\HocKi3\LT WIin NC\Đồ Án\QLCuaHangThucAnNhanh_v3.3\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+E:\VINH\HocKi3\LT WIin NC\Đồ Án\QLCuaHangThucAnNhanh_v3.3\BUS\obj\Debug\BUS.dll
+E:\VINH\HocKi3\LT WIin NC\Đồ Án\QLCuaHangThucAnNhanh_v3.3\BUS\obj\Debug\BUS.pdb
+C:\Users\HIeu Nguyen\Desktop\CNPM-UML-WINNC\project\QLCuaHangThucAnNhanh_v3.4\BUS\bin\Debug\BUS.dll
+C:\Users\HIeu Nguyen\Desktop\CNPM-UML-WINNC\project\QLCuaHangThucAnNhanh_v3.4\BUS\bin\Debug\BUS.pdb
+C:\Users\HIeu Nguyen\Desktop\CNPM-UML-WINNC\project\QLCuaHangThucAnNhanh_v3.4\BUS\bin\Debug\DAO.dll
+C:\Users\HIeu Nguyen\Desktop\CNPM-UML-WINNC\project\QLCuaHangThucAnNhanh_v3.4\BUS\bin\Debug\DTO.dll
+C:\Users\HIeu Nguyen\Desktop\CNPM-UML-WINNC\project\QLCuaHangThucAnNhanh_v3.4\BUS\bin\Debug\DAO.pdb
+C:\Users\HIeu Nguyen\Desktop\CNPM-UML-WINNC\project\QLCuaHangThucAnNhanh_v3.4\BUS\bin\Debug\DTO.pdb
+C:\Users\HIeu Nguyen\Desktop\CNPM-UML-WINNC\project\QLCuaHangThucAnNhanh_v3.4\BUS\obj\Debug\BUS.csprojAssemblyReference.cache
+C:\Users\HIeu Nguyen\Desktop\CNPM-UML-WINNC\project\QLCuaHangThucAnNhanh_v3.4\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+C:\Users\HIeu Nguyen\Desktop\CNPM-UML-WINNC\project\QLCuaHangThucAnNhanh_v3.4\BUS\obj\Debug\BUS.csproj.CopyComplete
+C:\Users\HIeu Nguyen\Desktop\CNPM-UML-WINNC\project\QLCuaHangThucAnNhanh_v3.4\BUS\obj\Debug\BUS.dll
+C:\Users\HIeu Nguyen\Desktop\CNPM-UML-WINNC\project\QLCuaHangThucAnNhanh_v3.4\BUS\obj\Debug\BUS.pdb
+C:\Users\HIeu Nguyen\Desktop\CNPM-UML-WINNC\project\QLCuaHangThucAnNhanh_v3.5\BUS\bin\Debug\BUS.dll
+C:\Users\HIeu Nguyen\Desktop\CNPM-UML-WINNC\project\QLCuaHangThucAnNhanh_v3.5\BUS\bin\Debug\BUS.pdb
+C:\Users\HIeu Nguyen\Desktop\CNPM-UML-WINNC\project\QLCuaHangThucAnNhanh_v3.5\BUS\bin\Debug\DAO.dll
+C:\Users\HIeu Nguyen\Desktop\CNPM-UML-WINNC\project\QLCuaHangThucAnNhanh_v3.5\BUS\bin\Debug\DTO.dll
+C:\Users\HIeu Nguyen\Desktop\CNPM-UML-WINNC\project\QLCuaHangThucAnNhanh_v3.5\BUS\bin\Debug\DAO.pdb
+C:\Users\HIeu Nguyen\Desktop\CNPM-UML-WINNC\project\QLCuaHangThucAnNhanh_v3.5\BUS\bin\Debug\DTO.pdb
+C:\Users\HIeu Nguyen\Desktop\CNPM-UML-WINNC\project\QLCuaHangThucAnNhanh_v3.5\BUS\obj\Debug\BUS.csprojAssemblyReference.cache
+C:\Users\HIeu Nguyen\Desktop\CNPM-UML-WINNC\project\QLCuaHangThucAnNhanh_v3.5\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+C:\Users\HIeu Nguyen\Desktop\CNPM-UML-WINNC\project\QLCuaHangThucAnNhanh_v3.5\BUS\obj\Debug\BUS.csproj.CopyComplete
+C:\Users\HIeu Nguyen\Desktop\CNPM-UML-WINNC\project\QLCuaHangThucAnNhanh_v3.5\BUS\obj\Debug\BUS.dll
+C:\Users\HIeu Nguyen\Desktop\CNPM-UML-WINNC\project\QLCuaHangThucAnNhanh_v3.5\BUS\obj\Debug\BUS.pdb
+C:\Users\HIeu Nguyen\Desktop\CNPM-UML-WINNC\project\QLCuaHangThucAnNhanh_v3.7\BUS\bin\Debug\BUS.dll
+C:\Users\HIeu Nguyen\Desktop\CNPM-UML-WINNC\project\QLCuaHangThucAnNhanh_v3.7\BUS\bin\Debug\BUS.pdb
+C:\Users\HIeu Nguyen\Desktop\CNPM-UML-WINNC\project\QLCuaHangThucAnNhanh_v3.7\BUS\bin\Debug\DAO.dll
+C:\Users\HIeu Nguyen\Desktop\CNPM-UML-WINNC\project\QLCuaHangThucAnNhanh_v3.7\BUS\bin\Debug\DTO.dll
+C:\Users\HIeu Nguyen\Desktop\CNPM-UML-WINNC\project\QLCuaHangThucAnNhanh_v3.7\BUS\bin\Debug\DAO.pdb
+C:\Users\HIeu Nguyen\Desktop\CNPM-UML-WINNC\project\QLCuaHangThucAnNhanh_v3.7\BUS\bin\Debug\DTO.pdb
+C:\Users\HIeu Nguyen\Desktop\CNPM-UML-WINNC\project\QLCuaHangThucAnNhanh_v3.7\BUS\obj\Debug\BUS.csprojAssemblyReference.cache
+C:\Users\HIeu Nguyen\Desktop\CNPM-UML-WINNC\project\QLCuaHangThucAnNhanh_v3.7\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+C:\Users\HIeu Nguyen\Desktop\CNPM-UML-WINNC\project\QLCuaHangThucAnNhanh_v3.7\BUS\obj\Debug\BUS.csproj.CopyComplete
+C:\Users\HIeu Nguyen\Desktop\CNPM-UML-WINNC\project\QLCuaHangThucAnNhanh_v3.7\BUS\obj\Debug\BUS.dll
+C:\Users\HIeu Nguyen\Desktop\CNPM-UML-WINNC\project\QLCuaHangThucAnNhanh_v3.7\BUS\obj\Debug\BUS.pdb
+C:\Users\HIeu Nguyen\Desktop\CNPM-UML-WINNC\project\QLCuaHangThucAnNhanh_v3.8\BUS\bin\Debug\BUS.dll
+C:\Users\HIeu Nguyen\Desktop\CNPM-UML-WINNC\project\QLCuaHangThucAnNhanh_v3.8\BUS\bin\Debug\BUS.pdb
+C:\Users\HIeu Nguyen\Desktop\CNPM-UML-WINNC\project\QLCuaHangThucAnNhanh_v3.8\BUS\bin\Debug\DAO.dll
+C:\Users\HIeu Nguyen\Desktop\CNPM-UML-WINNC\project\QLCuaHangThucAnNhanh_v3.8\BUS\bin\Debug\DTO.dll
+C:\Users\HIeu Nguyen\Desktop\CNPM-UML-WINNC\project\QLCuaHangThucAnNhanh_v3.8\BUS\bin\Debug\DAO.pdb
+C:\Users\HIeu Nguyen\Desktop\CNPM-UML-WINNC\project\QLCuaHangThucAnNhanh_v3.8\BUS\bin\Debug\DTO.pdb
+C:\Users\HIeu Nguyen\Desktop\CNPM-UML-WINNC\project\QLCuaHangThucAnNhanh_v3.8\BUS\obj\Debug\BUS.csprojAssemblyReference.cache
+C:\Users\HIeu Nguyen\Desktop\CNPM-UML-WINNC\project\QLCuaHangThucAnNhanh_v3.8\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+C:\Users\HIeu Nguyen\Desktop\CNPM-UML-WINNC\project\QLCuaHangThucAnNhanh_v3.8\BUS\obj\Debug\BUS.csproj.CopyComplete
+C:\Users\HIeu Nguyen\Desktop\CNPM-UML-WINNC\project\QLCuaHangThucAnNhanh_v3.8\BUS\obj\Debug\BUS.dll
+C:\Users\HIeu Nguyen\Desktop\CNPM-UML-WINNC\project\QLCuaHangThucAnNhanh_v3.8\BUS\obj\Debug\BUS.pdb
+E:\Video Đồ án\video app nghe nhac\New folder\QLCuaHangThucAnNhanh_v3.9\BUS\bin\Debug\BUS.dll
+E:\Video Đồ án\video app nghe nhac\New folder\QLCuaHangThucAnNhanh_v3.9\BUS\bin\Debug\BUS.pdb
+E:\Video Đồ án\video app nghe nhac\New folder\QLCuaHangThucAnNhanh_v3.9\BUS\bin\Debug\DAO.dll
+E:\Video Đồ án\video app nghe nhac\New folder\QLCuaHangThucAnNhanh_v3.9\BUS\bin\Debug\DTO.dll
+E:\Video Đồ án\video app nghe nhac\New folder\QLCuaHangThucAnNhanh_v3.9\BUS\bin\Debug\DAO.pdb
+E:\Video Đồ án\video app nghe nhac\New folder\QLCuaHangThucAnNhanh_v3.9\BUS\bin\Debug\DTO.pdb
+E:\Video Đồ án\video app nghe nhac\New folder\QLCuaHangThucAnNhanh_v3.9\BUS\obj\Debug\BUS.csprojAssemblyReference.cache
+E:\Video Đồ án\video app nghe nhac\New folder\QLCuaHangThucAnNhanh_v3.9\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+E:\Video Đồ án\video app nghe nhac\New folder\QLCuaHangThucAnNhanh_v3.9\BUS\obj\Debug\BUS.csproj.CopyComplete
+E:\Video Đồ án\video app nghe nhac\New folder\QLCuaHangThucAnNhanh_v3.9\BUS\obj\Debug\BUS.dll
+E:\Video Đồ án\video app nghe nhac\New folder\QLCuaHangThucAnNhanh_v3.9\BUS\obj\Debug\BUS.pdb
